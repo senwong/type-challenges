@@ -1,0 +1,23 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "https://github.com/type-challenges/type-challenges/blob/master/questions/298-medium-length-of-string/README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senwong/type-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senwong/type-challenges/issues"
+  },
+  "homepage": "https://github.com/senwong/type-challenges#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
