@@ -14,7 +14,6 @@ type name = 'for---bar-baz';
 
 type Result = CamelCase<name>;
 
-type hyphen = '---' extends '-' ? true : false;
 
 
 type cases = [
